@@ -6,3 +6,6 @@ its free.
 try it.
 
 https://www.kvraudio.com/product/preacher-by-nervosa
+
+
+DOWNLOAD FROM RELEASES IM NOT REALLY GONNA BOTHER UPDATING THE REPO
