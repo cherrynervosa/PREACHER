@@ -10,4 +10,4 @@ https://www.kvraudio.com/product/preacher-by-nervosa
 
 DOWNLOAD FROM RELEASES IM NOT REALLY GONNA BOTHER UPDATING THE REPO
 
-ty phaseluv for bugtesting :D
+ty @2x10 for bugtesting :D
